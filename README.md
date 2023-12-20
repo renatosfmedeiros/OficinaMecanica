@@ -1,10 +1,10 @@
 # Sistema de Gerenciamento para Oficina Mecânica
 
 Integrantes:
-Renato Medeiros
-Guilherme Nascimento
-Thales Germano
-Matheus Alves
+Renato Medeiros,
+Guilherme Nascimento,
+Thales Germano,
+Matheus Alves,
 Guilherme Oliveira
 
 
