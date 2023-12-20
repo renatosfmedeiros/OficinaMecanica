@@ -1,0 +1,10 @@
+com\mycompany\oficinamecanica\OrdemServico.class
+com\mycompany\oficinamecanica\Servico.class
+com\mycompany\oficinamecanica\Cliente.class
+com\mycompany\oficinamecanica\ItemManutencaoBase.class
+com\mycompany\oficinamecanica\OficinaMecanica.class
+com\mycompany\oficinamecanica\Peca.class
+com\mycompany\oficinamecanica\Mecanico.class
+com\mycompany\oficinamecanica\ItemManutencao.class
+com\mycompany\oficinamecanica\Pessoa.class
+com\mycompany\oficinamecanica\Veiculo.class
